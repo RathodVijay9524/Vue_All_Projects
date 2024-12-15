@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "es2020", // This should be one of es2020, es2022, esnext, etc.
+    "target": "esnext", // Make sure the target is also esnext or a similar version
+    "moduleResolution": "node", // Optional, but useful for node-style resolution
+    "strict": true, // Optional, enables all strict type-checking options
+    "esModuleInterop": true, // Optional, for better compatibility with ES modules
+    "skipLibCheck": true // Optional, helps with large dependencies
+  }
+}

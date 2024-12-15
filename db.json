@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "2024-12-14T10:51:31.777Z",
+      "name": "Vijay ",
+      "email": "om@gmail.com"
+    },
+    {
+      "id": "2024-12-14T10:51:43.906Z",
+      "name": "aruna",
+      "email": "omvijay44@gmail.com"
+    },
+    {
+      "id": "4c81",
+      "name": "Ajay Devgan Hero",
+      "email": "DevganAjay@gmail.com"
+    },
+    {
+      "id": "7424",
+      "name": "aruna",
+      "email": "omvijay44@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "7",
+      "name": "Product 7",
+      "description": "Description for T",
+      "price": "50007",
+      "category": "Category 7"
+    },
+    {
+      "id": "5fc7",
+      "name": "Vijay Rathod",
+      "description": "test",
+      "price": 4004,
+      "category": "Category 42"
+    },
+    {
+      "id": "e126",
+      "name": "Vijay Rathod t",
+      "description": "test test",
+      "price": 40043,
+      "category": "Category 423"
+    }
+  ],
+  "employees": [
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "emailId": "jane.smith@example.com"
+    },
+    {
+      "id": "0",
+      "firstName": "Vijay",
+      "lastName": "Rathod",
+      "emailId": "omvijay44@gmail.com"
+    }
+  ]
+}
